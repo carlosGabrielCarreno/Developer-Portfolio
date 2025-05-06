@@ -1,1 +1,2 @@
-import {Header} from "./header/Header"
+export * from "./header/Header"
+export * from "./about/About"

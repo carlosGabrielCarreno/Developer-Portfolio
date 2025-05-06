@@ -1,10 +1,12 @@
-
+import {About, Header} from  "./components/index"
+import "./styles/global.css"
 
 function App() {
 
   return (
     <>
-      hello
+      <Header />
+      <About />
     </>
   )
 }
